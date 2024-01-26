@@ -1,0 +1,8 @@
+.header{
+    border-radius: 20px 20px 0 0;
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-bottom: none;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 18px;
+}
